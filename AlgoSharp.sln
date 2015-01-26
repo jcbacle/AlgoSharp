@@ -1,0 +1,96 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Algs", "Algs", "{825D7349-CAC1-41B1-A2E3-3FB55B6D3CE2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assignment1", "Assignment1", "{65FA2BB2-F6BE-4F0F-863B-CD9CB5F6244B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assignment2", "Assignment2", "{E374AD6B-4D0B-41C3-9693-EA5B83012636}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assignment3", "Assignment3", "{C652F85E-75D5-4B2A-96AD-C3BFFB3793C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoSharp.Collinear", "Assignment3\AlgoSharp.Collinear\AlgoSharp.Collinear.csproj", "{4646CC31-C5C1-4519-9259-8269C306CD26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoSharp.CollinearVisualizer", "Assignment3\AlgoSharp.CollinearVisualizer\AlgoSharp.CollinearVisualizer.csproj", "{D1F6A4CB-4C65-4F22-8B54-0117683C0BED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoSharp.Queue", "Assignment2\AlgoSharp.Queue\AlgoSharp.Queue.csproj", "{6C573F3D-5CE9-4089-9DAD-269A365A2E28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoSharp.Subset", "Assignment2\AlgoSharp.Subset\AlgoSharp.Subset.csproj", "{3F56A782-D583-4C99-9FCC-6E9CBF2F6019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoSharp.Queue.Tests", "Assignment2\AlgoSharp.Queue.Tests\AlgoSharp.Queue.Tests.csproj", "{826EE7DF-ADEF-4379-9FF2-1156C4930471}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoSharp.Percolation", "Assignment1\AlgoSharp.Percolation\AlgoSharp.Percolation.csproj", "{1578F91D-7B2D-46EC-8C68-B1E9B61C7E71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoSharp.Algs", "Algs\AlgoSharp.Algs\AlgoSharp.Algs.csproj", "{6DEF19CB-E320-49F8-85D4-EC2D3F9E4D7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoSharp.PercolationVisualizer", "Assignment1\AlgoSharp.PercolationVisualizer\AlgoSharp.PercolationVisualizer.csproj", "{8D916C0E-AAAE-43B5-85AE-F90D95EDB0F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoSharp.Percolation.Tests", "Assignment1\AlgoSharp.Percolation.Tests\AlgoSharp.Percolation.Tests.csproj", "{E7A22B1B-D1FE-4AE8-A384-F78932DC25D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoSharp.Algs.Tests", "Algs\AlgoSharp.Algs.Tests\AlgoSharp.Algs.Tests.csproj", "{92E211CD-B4E2-401E-A5C7-66C643CD104E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4646CC31-C5C1-4519-9259-8269C306CD26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4646CC31-C5C1-4519-9259-8269C306CD26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4646CC31-C5C1-4519-9259-8269C306CD26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4646CC31-C5C1-4519-9259-8269C306CD26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1F6A4CB-4C65-4F22-8B54-0117683C0BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F6A4CB-4C65-4F22-8B54-0117683C0BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F6A4CB-4C65-4F22-8B54-0117683C0BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F6A4CB-4C65-4F22-8B54-0117683C0BED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C573F3D-5CE9-4089-9DAD-269A365A2E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C573F3D-5CE9-4089-9DAD-269A365A2E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C573F3D-5CE9-4089-9DAD-269A365A2E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C573F3D-5CE9-4089-9DAD-269A365A2E28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F56A782-D583-4C99-9FCC-6E9CBF2F6019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F56A782-D583-4C99-9FCC-6E9CBF2F6019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F56A782-D583-4C99-9FCC-6E9CBF2F6019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F56A782-D583-4C99-9FCC-6E9CBF2F6019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{826EE7DF-ADEF-4379-9FF2-1156C4930471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{826EE7DF-ADEF-4379-9FF2-1156C4930471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{826EE7DF-ADEF-4379-9FF2-1156C4930471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{826EE7DF-ADEF-4379-9FF2-1156C4930471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1578F91D-7B2D-46EC-8C68-B1E9B61C7E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1578F91D-7B2D-46EC-8C68-B1E9B61C7E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1578F91D-7B2D-46EC-8C68-B1E9B61C7E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1578F91D-7B2D-46EC-8C68-B1E9B61C7E71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DEF19CB-E320-49F8-85D4-EC2D3F9E4D7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DEF19CB-E320-49F8-85D4-EC2D3F9E4D7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DEF19CB-E320-49F8-85D4-EC2D3F9E4D7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DEF19CB-E320-49F8-85D4-EC2D3F9E4D7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D916C0E-AAAE-43B5-85AE-F90D95EDB0F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D916C0E-AAAE-43B5-85AE-F90D95EDB0F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D916C0E-AAAE-43B5-85AE-F90D95EDB0F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D916C0E-AAAE-43B5-85AE-F90D95EDB0F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7A22B1B-D1FE-4AE8-A384-F78932DC25D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A22B1B-D1FE-4AE8-A384-F78932DC25D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A22B1B-D1FE-4AE8-A384-F78932DC25D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A22B1B-D1FE-4AE8-A384-F78932DC25D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92E211CD-B4E2-401E-A5C7-66C643CD104E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E211CD-B4E2-401E-A5C7-66C643CD104E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E211CD-B4E2-401E-A5C7-66C643CD104E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E211CD-B4E2-401E-A5C7-66C643CD104E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4646CC31-C5C1-4519-9259-8269C306CD26} = {C652F85E-75D5-4B2A-96AD-C3BFFB3793C2}
+		{D1F6A4CB-4C65-4F22-8B54-0117683C0BED} = {C652F85E-75D5-4B2A-96AD-C3BFFB3793C2}
+		{6C573F3D-5CE9-4089-9DAD-269A365A2E28} = {E374AD6B-4D0B-41C3-9693-EA5B83012636}
+		{3F56A782-D583-4C99-9FCC-6E9CBF2F6019} = {E374AD6B-4D0B-41C3-9693-EA5B83012636}
+		{826EE7DF-ADEF-4379-9FF2-1156C4930471} = {E374AD6B-4D0B-41C3-9693-EA5B83012636}
+		{1578F91D-7B2D-46EC-8C68-B1E9B61C7E71} = {65FA2BB2-F6BE-4F0F-863B-CD9CB5F6244B}
+		{6DEF19CB-E320-49F8-85D4-EC2D3F9E4D7E} = {825D7349-CAC1-41B1-A2E3-3FB55B6D3CE2}
+		{8D916C0E-AAAE-43B5-85AE-F90D95EDB0F4} = {65FA2BB2-F6BE-4F0F-863B-CD9CB5F6244B}
+		{E7A22B1B-D1FE-4AE8-A384-F78932DC25D6} = {65FA2BB2-F6BE-4F0F-863B-CD9CB5F6244B}
+		{92E211CD-B4E2-401E-A5C7-66C643CD104E} = {825D7349-CAC1-41B1-A2E3-3FB55B6D3CE2}
+	EndGlobalSection
+EndGlobal
