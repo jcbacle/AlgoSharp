@@ -1,6 +1,6 @@
 # AlgoSharp
 
-C# implementation of [Algorithms coursera assignments](https://www.coursera.org/course/algs4partI)
+C# implementation of [Algorithms coursera assignments](https://www.coursera.org/course/algs4partI).
 
 Programming assignments are:
 * Part 1:
@@ -15,4 +15,4 @@ Programming assignments are:
   * Assignment 5: Boggle ?
   * Assignment 6: Burrows-Wheeler ?
   
-Description available [here](https://www.cs.princeton.edu/courses/archive/fall14/cos226/assignments.php)
+Description available [here](https://www.cs.princeton.edu/courses/archive/fall14/cos226/assignments.php).
