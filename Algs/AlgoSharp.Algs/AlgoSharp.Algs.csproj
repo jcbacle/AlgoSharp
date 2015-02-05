@@ -42,11 +42,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PriorityQueue\MaxPriorityQueue.cs" />
+    <Compile Include="PriorityQueue\MinPriorityQueue.cs" />
     <Compile Include="Search\BinarySearch.cs" />
+    <Compile Include="Search\QuickSelect.cs" />
+    <Compile Include="Sort\HeapSort.cs" />
     <Compile Include="Sort\InsertionSort.cs" />
     <Compile Include="Sort\MergeBottomUp.cs" />
     <Compile Include="Sort\MergeSort.cs" />
     <Compile Include="Sort\MergeSortOptimized.cs" />
+    <Compile Include="Sort\QuickSort.cs" />
     <Compile Include="UnionFind\QuickFind.cs" />
     <Compile Include="Sort\SelectionSort.cs" />
     <Compile Include="UnionFind\UnionFindInputReader.cs" />

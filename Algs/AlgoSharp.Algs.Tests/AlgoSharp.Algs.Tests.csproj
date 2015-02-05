@@ -50,11 +50,16 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="PriorityQueue\MaxPriorityQueueTests.cs" />
+    <Compile Include="PriorityQueue\MinPriotityQueueTests.cs" />
     <Compile Include="Search\BinarySearchTests.cs" />
+    <Compile Include="Search\QuickSelectTests.cs" />
     <Compile Include="Sort\InsertionSortTests.cs" />
     <Compile Include="Sort\MergeBottomUpTests.cs" />
     <Compile Include="Sort\MergeSortOptimizedTests.cs" />
     <Compile Include="Sort\MergeSortTests.cs" />
+    <Compile Include="Sort\QuickSortTests.cs" />
+    <Compile Include="Sort\HeapSortTests.cs" />
     <Compile Include="UnionFind\QuickFindTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sort\SelectionSortTests.cs" />
